@@ -8,6 +8,9 @@
     background: #DEF5E3;
     width: 317px;
     margin:auto;
+    
+}
+.about, .interests{
     padding: 0 35px;
 }
 h2{
@@ -26,4 +29,16 @@ p{
     font-size: 10.24px;
     line-height: 150%;
     color: #4A4E74;
+}
+.footer{
+    height: 64px;
+    background-color: #C5E1CB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.footer a{
+    margin: 0 12px;
+    height:25px;
 }
