@@ -5,7 +5,7 @@
     align-items: center;
     flex-direction: column;
     flex-wrap: nowrap;
-    background: #DEF5E3;
+    background: #7ADFBB;
     width: 317px;
     margin:auto;
     
@@ -32,7 +32,7 @@ p{
 }
 .footer{
     height: 64px;
-    background-color: #C5E1CB;
+    background-color: #7AF0C6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,4 +41,10 @@ p{
 .footer a{
     margin: 0 12px;
     height:25px;
+}
+.info{
+    width: 100%;
+}
+.info img{
+    width: 100%;
 }
